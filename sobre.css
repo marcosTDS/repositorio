@@ -1,0 +1,68 @@
+body {
+    background: linear-gradient(90deg, #444,#000);
+}
+ 
+h1 {
+    color: white;
+}
+ 
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.prim {
+    position: absolute;
+    max-width: 390px;
+    margin-left: 55%;
+    margin-top: -10%;
+    transition: .5s all ease-in-out;
+    width: 100%;
+}
+
+.prim:hover {
+    transform: scale(1.2);
+}
+
+.seg {
+    position: absolute;
+    max-width: 390px;
+    margin-left: 75%;
+    margin-top: -10%;
+    transition: .5s all ease-in-out;
+    width: 100%;
+    
+}
+
+.seg:hover {
+    transform: scale(1.2);
+}
+
+.terc {
+    position: absolute;
+    max-width: 390px;
+    margin-left: 55%;
+    margin-top: 10%;
+    transition: .5s all ease-in-out;
+    width: 100%;
+}
+
+.terc:hover {
+    transform: scale(1.2);
+}
+
+.quart {
+    position: absolute;
+    max-width: 390px;
+    margin-left: 75%;
+    margin-top: 10%;
+    transition: .5s all ease-in-out;
+    width: 100%;
+}
+
+.quart:hover {
+    transform: scale(1.2);
+}

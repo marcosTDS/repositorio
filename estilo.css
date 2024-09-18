@@ -1,0 +1,133 @@
+.container {
+    background: black;
+    color: white;
+    margin: -17px -8px 100px -8px;
+    padding: 20px 10px 1px 80px;
+    height: -500px;
+}
+
+.p {
+    margin-left: 67%;
+    margin-top: -10px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.h {
+    margin-left: 75%;
+    margin-top: -50px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.d {
+    margin-left: 80%;
+    margin-top: -49px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.barra {
+    margin-left: 87%;
+    margin-top: -52px;
+    font-size: 22px;
+}
+
+.l {
+    margin-left: 89%;
+    margin-top: -47px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.barraa {
+    margin-left: 93%;
+    margin-top: -52px;
+    font-size: 22px;
+}
+
+.s {
+    margin-left: 95%;
+    margin-top: -47px;
+    font-size: 23px;
+    margin-bottom: -15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover {
+    color: purple;
+}
+
+h1 {
+    text-align: center;
+    font-size: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20%;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    color: white;
+    
+}
+
+
+button {
+    margin-left: 42%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    border: 2px solid white;
+    background: rgb(3, 243, 123);
+    
+   
+}
+
+
+.a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.b {
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.premium {
+    background: black;
+    text-align: center;
+    margin-left: 0%;
+    
+    
+}
+
+body {
+    background: linear-gradient(90deg, #444,#000);
+}
+
+img {
+    position: absolute;
+    max-width: 160px;
+    margin-top: -75px;
+    margin-left: -70px;
+    transition: .5s all ease-in-out;
+    width: 100%;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
